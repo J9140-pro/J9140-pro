@@ -28,6 +28,9 @@
 <img src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/VirtualBox.png" alt="virtualbox" width="45" height="45" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="visualstudio" width="45" height="45"  />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" alt="visualstudio" width="45" height="45" />
+          
           
           
 </p>
